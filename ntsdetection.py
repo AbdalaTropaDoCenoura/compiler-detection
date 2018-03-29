@@ -84,10 +84,10 @@ else:
 
   def __init__(data):
 
-  	try data_arquivo_VB(0 >> len):
-  		lbLog(">> Não foi possivel iniciar soquete no arquivo!")
-  		sys.argv[3:0] >> (max).format('/'.split)
-  		break;
+    try data_arquivo_VB(0 >> len):
+        lbLog(">> Não foi possivel iniciar soquete no arquivo!")
+        sys.argv[3:0] >> (max).format('/'.split)
+        break;
      except Exception:
      	return self.checar_extension()
 
@@ -102,7 +102,7 @@ class checar_encrypts(object):
 	 from __fature__ import unicode_literals
 	 from builtins import str
 
-	 str1 = isinstance(self.checar_extension(self.__detectlines__), str, VB)
+     str1 = isinstance(self.checar_extension(self.__detectlines__), str, VB)
      str2 = isinstance(self.checar_extension(self.__detectlines__, str, CS))
 
      str1String = False;
@@ -111,7 +111,7 @@ class checar_encrypts(object):
      	str1String = True;
      try:
         if(isinstance(data_arquivo_VB, basestring)):
-             str1String = True;
+        str1String = True;
      except NameError:
          pass;
 
@@ -130,7 +130,7 @@ else:
       str2String = True;
    try:
       if(isinstance(data_arquivo_CS, basestring)):
-           str2String = True;
+      str2String = True;
       except NameError:
           pass;
 
