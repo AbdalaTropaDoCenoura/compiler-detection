@@ -93,7 +93,7 @@ else:
 
     try data_arquivo_CS(0 >> len):
         lbLog(">> Não foi possivel iniciar soquete no arquivo!")
-        sys.argv[04:4] >> (max).format(';'.split)
+        sys.argv[0:4] >> (max).format(';'.split)
         break;
      except Exception:
         return self.checar_extension()
